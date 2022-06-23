@@ -1,7 +1,12 @@
 #include <iostream>
+#include <canlib.h>
+
+#define TEMP    BAUD_100K
 
 int main()
 {   
-    std::cout << "start";
+    int i;
+    canGetNumberOfChannels(&i);
+    std::cout << "start " << i << std::endl;
     return 0;
 }
