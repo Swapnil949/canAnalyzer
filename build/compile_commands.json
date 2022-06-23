@@ -1,7 +1,0 @@
-[
-{
-  "directory": "C:/Users/spatel/Documents/personal_edu/canAnalyzer/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\canAnalyzer.dir\\main.cpp.obj -c C:\\Users\\spatel\\Documents\\personal_edu\\canAnalyzer\\main.cpp",
-  "file": "C:/Users/spatel/Documents/personal_edu/canAnalyzer/main.cpp"
-}
-]
